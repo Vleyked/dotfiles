@@ -1,0 +1,2 @@
+# dotfiles
+Initial mac configuration. 
